@@ -1,2 +1,2 @@
-# gilgilStadium
+# Gilgil Stadium
 Gilgil Stadium
