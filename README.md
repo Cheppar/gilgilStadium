@@ -11,8 +11,11 @@
 - Dictates the nature of the town's development,
 
 ### Previous Planning Interventions
-- It's first plan was drafted and approved in the year 2002.
-- The development plan covered approximmately 12 hectares and consisted of 22 plots with key land uses.
-- The 2002 plan has evolved over time. Let me walk you through the current state of Gilgil Stadium.
+- It's first development plan was drafted and approved in the year 2002.
+- It covered approximmately 12 hectares, and consisted of 27 plots with key land uses.
+- There has been a tremendous change in land use from the inital plan.
+
+### Land use patterns
 - 
+ 
 
