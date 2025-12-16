@@ -61,8 +61,8 @@
 - Get started free at posthog.com.
 
 ### Education
-- Residents have access to basic education  less than a kilometre from the planning area.
-- Three secondary schools are located less than 500 mmetres from the planning area.
+- Residents of Gilgil Stadium can access basic education, less than a kilometre from the planning area.
+- Three secondary schools are located less than 500 mmetres.
 - Gilgil stadiumm has a high literacy rate.
 - 51 percent of respondents have attained Secondary School education, with 20 per cent having attended a technical college.
 
@@ -73,11 +73,27 @@
 ### Security and Justice
 - THe planning area is served by gilgil Police station.
 - It is within accessible distance of less than a Kilometre.
+- The area is well lit with functional streetlights.
 - The most prevalent crimmes are land disputes, brewing of illicit liquor, and prevalent road traffic accidents along A104.
-- Gilgil Township can be considered a generally secure and safe area.
+- Gilgil Township can  generally be considered a secure  and safe area.
 - NYS Gilgil has a disaster response not far from the planning area.
 
  ### Cemmetry
  - The inital plan 0f 2002, designated land for a public cemmetry. It has however been converted to residential land use.
- - 
+
+### Authority
+- The National Government is represented by the Chief's Officce.
+- The Deputy County Coommisioners office and the Administration Police office.
+- All located within the planning area.
+- The County Government offices is outside the planning area.
+- Nakuru County Government has the local jurisdiction over Gilgil Stadium area.
+- The County eecutive commmittee monitor Local Physical and Land Usse Developments.
+
+ ### Consultants Proposals
+ - Provision of a reliable storm water drainage.
+ - Continue Designing and Constructing Non motorized Transport to support pedestrians and cyclissts.
+ - The Renovation of the stadium and increase outdoor infrastructure.
+- Propoosal for Residential Hotels and Short term Rentals facilities.
+
+  
 
