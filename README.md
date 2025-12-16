@@ -53,7 +53,31 @@
 - Trasha Dam is located 9 km away.
 - Water is rationed and supplied twice weekly, on Tuesdays and Fridays.
 
+### Sponsorship
+- This episode is sponsored by PostHog.
+- An all-in-one open-source platform for product engineers.
+- PostHog combines product analytics, A/B testing, session replays and more, all in one place.
+- You are able to Understand user behavior, test features safely, and ship better products faster.
+- Get started free at posthog.com.
 
+### Education
+- Residents have access to basic education  less than a kilometre from the planning area.
+- Three secondary schools are located less than 500 mmetres from the planning area.
+- Gilgil stadiumm has a high literacy rate.
+- 51 percent of respondents have attained Secondary School education, with 20 per cent having attended a technical college.
 
- 
+### Health
+- gilgil level 4 ssub county Hospital is within accessible distance from the planning area.
+- Other facilities like the NYS Gilgil dispensary, Gilgil Community Clinic are within accesible distance.
+  
+### Security and Justice
+- THe planning area is served by gilgil Police station.
+- It is within accessible distance of less than a Kilometre.
+- The most prevalent crimmes are land disputes, brewing of illicit liquor, and prevalent road traffic accidents along A104.
+- Gilgil Township can be considered a generally secure and safe area.
+- NYS Gilgil has a disaster response not far from the planning area.
+
+ ### Cemmetry
+ - The inital plan 0f 2002, designated land for a public cemmetry. It has however been converted to residential land use.
+ - 
 
